@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(236, 248, 245);
+}
+
+.Principal{
+    background: rgb(207, 211, 189);
+    color: rgb(0, 0, 0);
+    width: 500px;
+    padding: 5%;
+    margin: auto;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(177, 180, 147);
+    border-radius: 10px;
+}
+
+img{
+    width: 185px;
+    height: 235px;
+    margin: auto;
+    display: block;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    background-color: rgb(177, 177, 125);
+    text-align: center;
+}
+
+p{
+    text-align:left;
+    
+}
